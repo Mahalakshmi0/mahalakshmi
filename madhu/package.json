@@ -1,0 +1,29 @@
+{
+  "name": "madhu",
+  "version": "1.0.0",
+  "description": "building an application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahalakshmi0/mahalakshmi.git"
+  },
+  "keywords": [
+    "ecom",
+    "tcesession"
+  ],
+  "author": "madhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahalakshmi0/mahalakshmi/issues"
+  },
+  "homepage": "https://github.com/Mahalakshmi0/mahalakshmi#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "parser": "^0.1.4"
+  }
+}
